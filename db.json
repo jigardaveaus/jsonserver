@@ -11,8 +11,8 @@
     { "id": 3, "body": "This is test", "postId": 2, createdDate:"2020-04-21T10:26:00.996Z" }
   ],
   "profile":[ 
-    { "id": 1, "name": "John", "surname" : "Pitt", sex: "Male", image: "https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" },
-    { "id": 2, "name": "Kate", "surname" : "Sparrow", sex: "Female", image: "https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" }
+    { "id": 1, "name": "dev1", "surname" : "dev1surname", sex: "Male", image: "https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" },
+    { "id": 2, "name": "qa1", "surname" : "qa1SURNAME", sex: "Female", image: "https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" }
   ]
   "users": [
     { "id": 1, "username": "dev1", "password" : "R1ndko9m", token:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwibmFtZSI6ImRldjEiLCJpYXQiOjE1MTYyMzkwMjJ9.ZljMshXSA07XhW7iy8VPjh3aGSXYC62gP1ZCDaWITaw" },
