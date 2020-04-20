@@ -1,0 +1,21 @@
+  
+{
+  "posts": [
+    { "id": 1, "title": "Post 1", "isDeleted" : false, createdDate:"2020-04-23T10:26:00.996Z", userId: "1" },
+    { "id": 2, "title": "Post 2",  "isDeleted" : true, createdDate:"2020-04-21T10:26:00.996Z", userId: "1" },
+    { "id": 3, "title": "Post 3", "isDeleted" : true, createdDate:"2020-04-23T11:26:00.996Z", userId: "2" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Hi, How are you? ", "postId": 1, createdDate:"2020-04-23T10:27:00.996Z" },
+    { "id": 2, "body": "Good", "postId": 1, createdDate:"2020-04-23T10:26:00.996Z" },
+    { "id": 3, "body": "This is test", "postId": 2, createdDate:"2020-04-21T10:26:00.996Z" }
+  ],
+  "profile":[ {
+    { "id": 1, "name": "John", "surname" : "Pitt", sex: "Male", image: "https://media.giphy.com/media/yoJC2El7xJkYCadlWE/giphy.gif" },
+    { "id": 2, "name": "Kate", "surname" : "Sparrow", sex: "Female", image: "https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" }
+  }]
+  "users": [
+    { "id": 1, "username": "dev1", "password" : "R1ndko9m", token:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwibmFtZSI6ImRldjEiLCJpYXQiOjE1MTYyMzkwMjJ9.ZljMshXSA07XhW7iy8VPjh3aGSXYC62gP1ZCDaWITaw" },
+    { "id": 2, "username": "qa1",  "password" : "Qa20201", token:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyIiwibmFtZSI6InFhMSIsImlhdCI6MTUxNjIzOTAyMn0.ggUjEI4c-xACmOMd3euPfyBj2NLjdD9_I0THJZ3Ddiw" }
+  ]
+}
