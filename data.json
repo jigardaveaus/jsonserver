@@ -1,0 +1,5 @@
+[
+    { "name": "John Doe", "details": "Engineer at XYZ Corp" },
+    { "name": "Jane Smith", "details": "Doctor at ABC Hospital" },
+    { "name": "Alice Johnson", "details": "Lawyer at DEF Law Firm" }
+]
