@@ -1,5 +1,5 @@
 [
-    { "name": "John Doe", "details": "Engineer at XYZ Corp" },
-    { "name": "Jane Smith", "details": "Doctor at ABC Hospital" },
-    { "name": "Alice Johnson", "details": "Lawyer at DEF Law Firm" }
+        { id: 1, name: "John Doe", role: "Developer" },
+        { id: 2, name: "Jane Smith", role: "Designer" },
+        { id: 3, name: "Alice Johnson", role: "Product Manager" }
 ]
